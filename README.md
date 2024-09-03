@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/17844518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17844518" height="30" width="40" /></a>
 <a href="https://instagram.com/eyupfurkantuylu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyupfurkantuylu" height="30" width="40" /></a>
 <a href="https://medium.com/@eyodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eyodev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eyupfurkantuylu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyupfurkantuylu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@eyupfurkantuylu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyupfurkantuylu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

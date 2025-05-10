@@ -6,11 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/eyupfurkantuylu" target="blank"><img src="https://img.shields.io/twitter/follow/eyupfurkantuylu?logo=twitter&style=for-the-badge" alt="eyupfurkantuylu" /></a> </p>
 
-- 🔭 I’m currently working on [İngilizcee App](https://apps.apple.com/us/app/i-ngilizcee/id6608989537)
-
-- 🌱 I’m currently learning **Microservice**
-
-- 👨‍💻 All of my projects are available at [https://github.com/eyupfurkantuylu/](https://github.com/eyupfurkantuylu/)
 
 - 📝 I regularly write articles on [https://eyupfurkantuylu.com](https://eyupfurkantuylu.com)
 
